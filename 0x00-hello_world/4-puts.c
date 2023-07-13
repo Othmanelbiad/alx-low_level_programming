@@ -1,4 +1,4 @@
-#include <stdio.h
+#include <stdio.h>
 /**
 * main - entry poit
 * Return: always 0 (success)
